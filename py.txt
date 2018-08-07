@@ -1,0 +1,8 @@
+What is Python?
+Python is a cross-platform programming language, meaning, it runs on multiple platforms like Windows, Mac OS X, Linux, Unix and has even been ported to the Java and .NET virtual machines.
+ It is free and open source.
+
+Even though most of today’s Linux and Mac have Python preinstalled in it, the version might be out-of-date.
+ So, it is always a good idea to install the most current version. You can download the latest version of Python and install it.
+
+
