@@ -1,8 +1,14 @@
 What is Python?
 Python is a cross-platform programming language, meaning, it runs on multiple platforms like Windows, Mac OS X, Linux, Unix and has even been ported to the Java and .NET virtual machines.
- It is free and open source.
+ It is free and open soWe can use any text editing software to write a Python script file.
 
-Even though most of today’s Linux and Mac have Python preinstalled in it, the version might be out-of-date.
- So, it is always a good idea to install the most current version. You can download the latest version of Python and install it.
+We just need to save it with the .py extension. But using an IDE can make our life a lot easier. IDE is a piece of software that provides useful features like code hinting, syntax highlighting and checking, file explorers etc. to the programmer for application development.
+
+Using an IDE can get rid of redundant tasks and significantly decrease the time required for application development.
+
+IDEL is a graphical user interface (GUI) that can be installed along with the Python programming language and is available from the official website.
+
+We can also use other commercial or free IDE according to our preference. We have used the PyScripter IDE for our testing and we recommend the same. It is free and open source.
+
 
 
